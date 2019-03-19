@@ -1,0 +1,21 @@
+{
+  "name": "express-tsc",
+  "version": "1.0.0",
+  "description": "An Express template application built in Typescript.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adrian Stefan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "@types/express": "^4.16.1",
+    "@types/node": "^11.11.3"
+  }
+}
